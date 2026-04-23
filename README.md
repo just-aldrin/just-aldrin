@@ -57,7 +57,10 @@ Beyond the terminal, I am deeply involved in the **Iloilo Specialty Coffee Commu
 ---
 
 ## 📫 Connect With Me
-- **GitHub:** [github.com/AldrinBansuelo](https://github.com/AldrinBansuelo) 
+- **GitHub:** [github.com/AldrinBansuelo](https://github.com/AldrinBansuelo)
+- **Instagram:** [instagram.com/_aldrinbansuelo/](https://www.instagram.com/_aldrinbansuelo/?hl=en)
+- **Facebook:** [facebook.com/bansuelo.aldrin](https://www.facebook.com/bansuelo.aldrin)
+- **LinkedIn:** [linkedin.com/in/aldrin-bansuelo](https://www.linkedin.com/in/aldrin-bansuelo-433869289/?skipRedirect=true)
 - **Location:** Santa Barbara, Iloilo, Philippines
 
 *"Engineering order out of complexity—one line of code and one cup of coffee at a time."*
