@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-I am an Information Systems student with a passion for deconstructing complex systems—whether it’s a modular web application or the mechanical components of a machine. I thrive in the intersection of **technical logic** and **user-centric design**, applying Human-Computer Interaction (HCI) principles to create accessible digital experiences.
+I am an Information Systems student with a passion for deconstructing complex systems, whether it’s a modular web application or the mechanical components of a machine. I thrive in the intersection of **technical logic** and **user-centric design**, applying Human-Computer Interaction (HCI) principles to create accessible digital experiences.
 
 When I’m not debugging Rust crates or fine-tuning database schemas, you’ll find me exploring the specialty coffee scene in Iloilo or refining my pour-over technique.
 
