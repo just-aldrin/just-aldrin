@@ -63,4 +63,4 @@ Beyond the terminal, I am deeply involved in the **Iloilo Specialty Coffee Commu
 - **LinkedIn:** [linkedin.com/in/aldrin-bansuelo](https://www.linkedin.com/in/aldrin-bansuelo-433869289/?skipRedirect=true)
 - **Location:** Santa Barbara, Iloilo, Philippines
 
-*"Engineering order out of complexity—one line of code and one cup of coffee at a time."*
+*"Engineering order out of complexity, one line of code and one cup of coffee at a time."*
