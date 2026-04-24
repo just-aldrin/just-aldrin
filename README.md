@@ -1,211 +1,76 @@
-# Hi, I'm Aldrin E. Bansuelo
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/hand.gif" width="30px"> Hi, I'm Aldrin E. Bansuelo
+### 🎓 3rd Year Information Systems Student | 💻 Full-Stack Developer | ☕ Coffee Enthusiast
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Scalable+Systems;Analyzing+Complex+Data;Brewing+the+Perfect+Pour" alt="Typing SVG" />
+</div>
 
-### Information Systems Student | Full-Stack Builder | Coffee Craft Learner
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldrin-bansuelo-433869289/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_aldrinbansuelo/)
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bansuelo.aldrin)
-
+<div align="center">
+  <img src="YOUR_BANNER_URL" alt="Aldrin's Banner" width="100%" style="border-radius: 10px;">
+  <br>
+  <a href="https://www.linkedin.com/in/aldrin-bansuelo-433869289/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/just-aldrin">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+  </a>
 </div>
 
 ---
 
-## About Me
-
-I am a 3rd Year Information Systems student at West Visayas State University who enjoys building systems that are both technically sound and easy for people to use. My work sits at the intersection of software engineering, analytics, and interface design, with a strong interest in Human-Computer Interaction and practical, real-world problem solving.
-
-Outside tech, I spend a lot of time around specialty coffee, where I bring the same mindset: observe carefully, refine the process, and make every detail intentional.
+## 👨‍💻 About Me
+I am an Information Systems student at **West Visayas State University** with a passion for deconstructing complex systems—from modular web applications to the mechanical components of a machine. I thrive at the intersection of **technical logic** and **user-centric design**, applying Human-Computer Interaction (HCI) principles to create accessible digital experiences.
 
 ---
 
-## Technical Blueprint
+## 🛠️ The Technical Blueprint
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3>Core Stack</h3>
-      <p>
-        <strong>Languages</strong><br>
-        PHP | JavaScript | TypeScript | SQL | Rust
-      </p>
-      <p>
-        <strong>Frontend</strong><br>
-        React 18 | Vite | Responsive UI
-      </p>
-      <p>
-        <strong>Backend & Data</strong><br>
-        Supabase | PostgreSQL | XAMPP
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h3>Experience Design</h3>
-      <p>
-        <strong>Design Lens</strong><br>
-        HCI | Accessibility | Visual Hierarchy
-      </p>
-      <p>
-        <strong>Interface Work</strong><br>
-        Wireframing | UI Prototyping | Design Systems
-      </p>
-      <p>
-        <strong>Tools</strong><br>
-        Figma | Layout Planning | Brand-Aware Styling
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h3>Systems Environment</h3>
-      <p>
-        <strong>Platforms</strong><br>
-        Windows | Linux | Android Tooling
-      </p>
-      <p>
-        <strong>Workflow</strong><br>
-        Git | Vercel | Local Dev Environments
-      </p>
-      <p>
-        <strong>Build Focus</strong><br>
-        Tauri v2 | Desktop-Mobile Thinking | Deployment Readiness
-      </p>
-    </td>
-  </tr>
-</table>
+### 🏗️ Engineering & Logic
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white)
 
-### Working Style Snapshot
+### 🎨 Design & Experience
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+> **Focus:** HCI Principles, Color Theory for Accessibility, and Component-Driven UI/UX.
 
-| Build Logic | Design Thinking | Delivery Mindset |
-| :-- | :-- | :-- |
-| Modular architecture | User-centered decisions | Practical and iterative |
-| Clean data flow | Clear visual communication | Built for real use cases |
-| System reliability | Accessibility awareness | Documentation and refinement |
+### 🖥️ Systems & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+> **Specialization:** Windows/Linux Environment Troubleshooting & Android Emulation/ADB.
 
 ---
 
-## Featured Projects
+## 🧪 Data Science & Visualization Lab
+*Transforming raw system data into strategic Business Intelligence.*
 
-### ASENXO
-A monitoring and reporting platform built to support structured workflows, data visibility, and cross-platform usability.
+As an Information Systems student specializing in **Analytics Tools and Techniques**, I go beyond building software—I analyze the data those systems generate to drive decision-making.
 
-- **Stack:** Tauri v2, React, TypeScript, Supabase, Twilio
-- **Focus:** Mobile-connected workflows, real-time updates, and operational tracking
-
-### Ready-Up Recipes
-A recipe and ingredient inventory system designed to simplify kitchen organization and daily process management.
-
-- **Stack:** PHP, SQL, JavaScript
-- **Focus:** Utility, workflow clarity, and database-backed interactions
-
-### ShotConnect
-A booking platform concept for freelance photographers with emphasis on user flow, service discovery, and platform value.
-
-- **Focus:** UI/UX design, platform structure, and business-oriented thinking
+- **Analytical Environment:** ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- **Methodology:** I am proficient in the full data lifecycle—from cleaning and preprocessing raw datasets to performing advanced statistical modeling.
+- **Advanced Diagnostics:** My toolkit includes **Multiple Regression Analysis**, **Heteroscedasticity Mitigation (HC3 Robust Errors)**, and **Residual Diagnostics** to ensure model integrity and predictive accuracy.
+- **Visual Storytelling:** I use `Matplotlib` and `Seaborn` to create high-impact visualizations that reveal hidden trends and non-linear relationships.
 
 ---
 
-## Ecosystem
+## 🚀 Featured Project: ASENXO (DOST-SETUP 4.0)
+*A secure platform monitoring financial assistance for Filipino MSMEs.*
 
-<table>
-  <tr>
-    <th align="left">Workspace</th>
-    <th align="left">Role in the System</th>
-    <th align="left">What I Bring</th>
-  </tr>
-  <tr>
-    <td><strong>Product Layer</strong></td>
-    <td>Turning requirements into usable interfaces and connected workflows.</td>
-    <td>Frontend implementation, UX structure, and interaction planning.</td>
-  </tr>
-  <tr>
-    <td><strong>Application Layer</strong></td>
-    <td>Building the logic that connects users, data, and platform behavior.</td>
-    <td>Full-stack development, state handling, and feature integration.</td>
-  </tr>
-  <tr>
-    <td><strong>Data Layer</strong></td>
-    <td>Organizing information so it remains reliable, queryable, and useful.</td>
-    <td>Database design, structured records, and analytics-ready schemas.</td>
-  </tr>
-  <tr>
-    <td><strong>Insight Layer</strong></td>
-    <td>Translating raw information into patterns, trends, and decision support.</td>
-    <td>Visualization, interpretation, and analytical storytelling.</td>
-  </tr>
-</table>
+**Ecosystem Flow:**
+1. **The Source:** MSME Beneficiaries submit compliance reports and **financial assistance** repayment slips.
+2. **The Hub:** ASENXO (Tauri v2 + Supabase) syncs data securely across devices.
+3. **The Monitor:** DOST Administrators access real-time dashboards and growth analytics.
 
-### How I Usually Work Across a System
 
-```text
-Idea / Need
-    ->
-Interface Planning
-    ->
-Application Logic
-    ->
-Structured Data
-    ->
-Visual Insights
-    ->
-Refinement Through Feedback
-```
-
-This is the environment I enjoy most: systems where design, engineering, and interpretation all feed into each other.
 
 ---
 
-## Data Science & Visualization Lab
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
-
-</div>
-
-I use data science as a way to move from raw information to clearer decisions. My interest is not only in running analysis, but in making results understandable, credible, and useful for real people.
-
-### What I Can Do
-
-- Clean, organize, and prepare datasets for analysis
-- Explore trends, relationships, and performance signals
-- Build visual summaries that make findings easier to communicate
-- Apply statistical thinking to support interpretation and decision-making
-- Present technical results in a way that non-technical audiences can follow
-
-### Areas I Enjoy Exploring
-
-- Descriptive analytics and pattern discovery
-- Regression-oriented thinking and variable relationships
-- Dashboard-style storytelling and visual reporting
-- Data-backed support for product, business, or operational decisions
+## ☕ The Craft & The Science
+I treat brewing as an engineering process—constant adjustment, testing, and refining.
+- **Current Focus:** Formal Barista Training (Scholarship Recipient).
+- **Goal:** Integrating my tech background with the coffee industry to improve café operational efficiency.
 
 ---
 
-## The Craft & The Science
-
-Beyond software, I am deeply interested in specialty coffee and the discipline behind it. Brewing, for me, is another form of systems thinking: inputs, calibration, consistency, and experience all matter.
-
-- **Current Focus:** Barista training and hands-on brewing practice
-- **Interests:** Pour-over methods, sensory evaluation, and workflow precision
-- **Long-Term Vision:** Bridging technology and coffee operations through better systems and smarter process design
-
----
-
-## 2026 Goals
-
-- [ ] Complete and defend my undergraduate thesis
-- [ ] Keep building systems with stronger real-world value
-- [ ] Grow deeper in data visualization, UI/UX, and full-stack engineering
-- [ ] Earn professional barista certification and contribute to the local coffee community
-
----
-
-## Connect With Me
-
-- **GitHub:** [github.com/AldrinBansuelo](https://github.com/AldrinBansuelo)
+## 📫 Connect With Me
 - **Location:** Santa Barbara, Iloilo, Philippines
+- [LinkedIn](https://www.linkedin.com/in/aldrin-bansuelo-433869289/) | [Instagram](https://www.instagram.com/_aldrinbansuelo/) | [Facebook](https://www.facebook.com/bansuelo.aldrin)
 
-> Engineering clarity from complexity, one system and one cup at a time.
+*"Engineering order out of complexity—one line of code and one cup of coffee at a time."*
