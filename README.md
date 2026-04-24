@@ -23,22 +23,22 @@ I am an Information Systems student at **West Visayas State University** with a 
 
 ---
 
-## 🛠️ The Technical Blueprint
+## The Technical Blueprint
 
-### 🏗️ Engineering & Logic
+### Engineering & Logic
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white)
 
-### 🎨 Design & Experience
+### Design & Experience
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 > **Focus:** HCI Principles, Color Theory for Accessibility, and Component-Driven UI/UX.
 
-### 🖥️ Systems & DevOps
+### Systems & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 > **Specialization:** Windows/Linux Environment Troubleshooting & Android Emulation/ADB.
 
 ---
 
-## 🧪 Data Science & Visualization Lab
+## Data Science & Visualization Lab
 *Transforming raw system data into strategic Business Intelligence.*
 
 As an Information Systems student specializing in **Analytics Tools and Techniques**, I go beyond building software—I analyze the data those systems generate to drive decision-making.
@@ -50,22 +50,35 @@ As an Information Systems student specializing in **Analytics Tools and Techniqu
 
 ---
 
-## 🚀 Featured Project: ASENXO (DOST-SETUP 4.0)
-*A secure platform monitoring financial assistance for Filipino MSMEs.*
+### ASENXO (DOST-SETUP 4.0)
+A comprehensive monitoring platform for beneficiaries of the DOST SETUP iFund Program.
+- **Tech Stack:** Tauri v2, React, TypeScript, Supabase, Twilio.
+- **Impact:** Digitizes the tracking of **financial assistance** standing and compliance for MSMEs.
+- **Challenge:** Overcoming cross-platform compilation hurdles for Android and implementing real-time tracking features.
 
-**Ecosystem Flow:**
-1. **The Source:** MSME Beneficiaries submit compliance reports and **financial assistance** repayment slips.
-2. **The Hub:** ASENXO (Tauri v2 + Supabase) syncs data securely across devices.
-3. **The Monitor:** DOST Administrators access real-time dashboards and growth analytics.
+### Ready-Up Recipes
+An all-in-one recipe and ingredient inventory management system designed to streamline kitchen workflows.
+- **Tech Stack:** PHP, SQL, JavaScript.
 
-
+### ShotConnect
+A real-time booking platform for freelance photographers, bridging the gap in the local gig economy.
+- **Focus:** UI/UX Design and business modeling.
 
 ---
 
-## ☕ The Craft & The Science
-I treat brewing as an engineering process—constant adjustment, testing, and refining.
-- **Current Focus:** Formal Barista Training (Scholarship Recipient).
-- **Goal:** Integrating my tech background with the coffee industry to improve café operational efficiency.
+## The Craft & The Science
+Beyond the terminal, I am deeply involved in the **Iloilo Specialty Coffee Community**. I treat brewing as an engineering process—constant adjustment, testing, and refining.
+
+- **Current Focus:** Undergoing formal barista training (Scholarship recipient).
+- **Skills:** Pour-over methods, flavor profile identification (Cupping), and brewing physics.
+- **Goal:** To integrate technical background with the coffee industry to improve café operational efficiency.
+
+---
+
+## 🎯 2026 Goals
+- [ ] Complete and defend my Undergraduate Thesis.
+- [ ] Successfully deploy ASENXO for its target users.
+- [ ] Earn professional Barista certification and contribute to local coffee events.
 
 ---
 
