@@ -1,6 +1,7 @@
 # Hi, I'm Aldrin E. Bansuelo 👋
 
 <div align="center">
+  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Scalable+Systems;Analyzing+Complex+Data;Brewing+the+Perfect+Pour" alt="Typing SVG" />
 
   <h4>🎓 3rd Year Information Systems Student @ WVSU | 💻 Full-Stack Developer | ☕ Aspiring Barista</h4>
