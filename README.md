@@ -18,7 +18,15 @@
 
 <!-- Dynamic Contribution Cards -->
 <!--START_SECTION:stats-->
-Loading stats...
+<div align="center">
+
+### 📈 Contribution Highlights
+
+<img src="https://img.shields.io/badge/Total%20Contributions-0-ff69b4?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Current%20Streak-0%20days-ff1493?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Longest%20Streak-0%20days-ff69b4?style=for-the-badge&labelColor=0d1117" />
+
+</div>
 <!--END_SECTION:stats-->
 
 <br/>
