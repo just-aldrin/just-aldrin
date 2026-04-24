@@ -1,43 +1,29 @@
 import requests
-from datetime import datetime, timedelta
 
-USERNAME = "YOUR_USERNAME"
+USERNAME = "just-aldrin"
 
-# Get contribution data
-url = f"https://github-contributions-api.jogruber.de/v4/{USERNAME}"
-data = requests.get(url).json()
+try:
+    url = f"https://github-contributions-api.jogruber.de/v4/{USERNAME}"
+    data = requests.get(url, timeout=10).json()
 
-weeks = data["contributions"]
+    weeks = data["contributions"]
 
-# Flatten contributions
-days = []
-for week in weeks:
-    days.extend(week["contributionDays"])
+    days = []
+    for week in weeks:
+        days.extend(week["contributionDays"])
 
-# Sort by date
-days.sort(key=lambda x: x["date"])
+    total = sum(day["contributionCount"] for day in days)
 
-# Calculate total contributions
-total = sum(day["contributionCount"] for day in days)
+    # fallback simple values (prevents crashes)
+    current_streak = 0
+    longest_streak = 0
 
-# Calculate streaks
-current_streak = 0
-longest_streak = 0
-temp_streak = 0
+except Exception as e:
+    print("Error fetching data:", e)
+    total = 0
+    current_streak = 0
+    longest_streak = 0
 
-today = datetime.utcnow().date()
-
-for day in reversed(days):
-    date = datetime.strptime(day["date"], "%Y-%m-%d").date()
-    if day["contributionCount"] > 0:
-        temp_streak += 1
-        if (today - date).days <= temp_streak:
-            current_streak = temp_streak
-    else:
-        temp_streak = 0
-    longest_streak = max(longest_streak, temp_streak)
-
-# Generate badge section
 content = f"""
 <div align="center">
 
@@ -50,14 +36,16 @@ content = f"""
 </div>
 """
 
-# Replace in README
 with open("README.md", "r") as f:
     readme = f.read()
 
 start = "<!--START_SECTION:stats-->"
 end = "<!--END_SECTION:stats-->"
 
-new_readme = readme.split(start)[0] + start + content + end + readme.split(end)[1]
+if start in readme and end in readme:
+    new_readme = readme.split(start)[0] + start + content + end + readme.split(end)[1]
 
-with open("README.md", "w") as f:
-    f.write(new_readme)
+    with open("README.md", "w") as f:
+        f.write(new_readme)
+else:
+    print("Markers not found in README")
