@@ -8,7 +8,35 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aldrin-bansuelo-433869289/)
   [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/_aldrinbansuelo/)
   [![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/bansuelo.aldrin)
-  
+</div>
+
+---
+
+## 📊 GitHub Dashboard
+
+<div align="center">
+
+<!-- Dynamic Contribution Cards -->
+<!--START_SECTION:stats-->
+Loading stats...
+<!--END_SECTION:stats-->
+
+<br/>
+
+<!-- Main Stats -->
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aldrinbansuelo&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldrinbansuelo&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=aldrinbansuelo&theme=radical&hide_border=true&background=0d1117" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=aldrinbansuelo&theme=react-dark&bg_color=0d1117&hide_border=true" />
+</p>
+
 </div>
 
 ---
