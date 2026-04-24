@@ -11,17 +11,6 @@
   
 </div>
 
-<div align="center">
-  <img src="YOUR_BANNER_URL" alt="Aldrin's Banner" width="100%" style="border-radius: 10px;">
-  <br>
-  <a href="https://www.linkedin.com/in/aldrin-bansuelo-433869289/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/just-aldrin">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-  </a>
-</div>
-
 ---
 
 ## 👨‍💻 About Me
