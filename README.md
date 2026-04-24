@@ -1,8 +1,14 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/hand.gif" width="30px"> Hi, I'm Aldrin E. Bansuelo
-### 🎓 3rd Year Information Systems Student | 💻 Full-Stack Developer | ☕ Coffee Enthusiast
+# Hi, I'm Aldrin E. Bansuelo 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Scalable+Systems;Analyzing+Complex+Data;Brewing+the+Perfect+Pour" alt="Typing SVG" />
+
+  <h4>🎓 3rd Year Information Systems Student @ WVSU | 💻 Full-Stack Developer | ☕ Aspiring Barista</h4>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aldrin-bansuelo-433869289/)
+  [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/_aldrinbansuelo/)
+  [![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/bansuelo.aldrin)
+  
 </div>
 
 <div align="center">
