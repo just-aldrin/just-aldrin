@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems;Analyzing+Complex+Data;Designing+Accessible+Interfaces" alt="Building Scalable Systems, Analyzing Complex Data, Designing Accessible Interfaces" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C9A27A&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems;Analyzing+Complex+Data;Designing+Accessible+Interfaces" alt="Building Scalable Systems, Analyzing Complex Data, Designing Accessible Interfaces" />
 
   <h4>4th Year Information Systems Student at WVSU | Full-Stack Developer | Data Analyst</h4>
 
@@ -29,12 +29,12 @@ My day-to-day work covers debugging Rust crates, designing and tuning database s
 Every card below is generated live from the GitHub API, so the figures update on their own with no scheduled workflow to maintain.
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=just-aldrin&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-aldrin&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Most used languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=just-aldrin&show_icons=true&hide_border=true&count_private=true&bg_color=1A1612&title_color=C9A27A&text_color=D8CBB8&icon_color=8A9A5B" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-aldrin&layout=compact&hide_border=true&bg_color=1A1612&title_color=C9A27A&text_color=D8CBB8" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=just-aldrin&theme=radical&hide_border=true&background=0d1117" alt="Contribution streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=just-aldrin&hide_border=true&background=1A1612&ring=C9A27A&fire=B5651D&currStreakNum=D8CBB8&sideNums=D8CBB8&currStreakLabel=C9A27A&sideLabels=8A9A5B&dates=A39382" alt="Contribution streak" />
 </p>
 
 </div>
