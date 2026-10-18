@@ -26,7 +26,6 @@ My day-to-day work covers debugging Rust crates, designing and tuning database s
 
 <div align="center">
 
-Every card below is generated live from the GitHub API, so the figures update on their own with no scheduled workflow to maintain.
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=just-aldrin&show_icons=true&hide_border=true&count_private=true&bg_color=1A1612&title_color=C9A27A&text_color=D8CBB8&icon_color=8A9A5B" alt="GitHub statistics" />
